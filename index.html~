@@ -101,13 +101,13 @@
                 <hr>
                 <ul class="experience-list">
                     <li>
-                        <h3>湖南大学(985)      金融（硕士）2018-2021</h3>
+                        <h3>湖南大学(985)&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp金融（硕士）2018-2021</h3>
                         <p>
                              硕士阶段在导师的数字金融研究所学习，从事数据分析方向，主要进行数据挖掘的研究与学习。并基于兴趣与职业规划，主动学习了Python/Java语言与MySQL数据库，学习了数据结构与算法基础，以及Linux系统使用等计算机基础知识。并对机器学习数据挖掘领域有了一定的涉足。
                         </p>
                     </li>
                     <li>
-                        <h3>中国石油大学(211)      电气工程及其自动化（本科）2014-2018</h3>
+                        <h3>中国石油大学(211)&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp电气工程及其自动化（本科）2014-2018</h3>
                         <p>
                             本科阶段学习了汇编语言、C语言，了解了底层的电子工作原理，毕业论文研究了电力调度的数学建模等问题
                         </p>
@@ -133,26 +133,24 @@
                         <h3>数据分析</h3>
                         <p>
                             有一定的python基础，会使用numpy,pandas库进行科学计算与数据分析，
-                            使用matplotlib库进行数据可视化，懂基础的python爬虫原理
+                            使用matplotlib库进行数据可视化，了解基础的python爬虫原理
                             <br/>
                         </p>
                     </li>
                     <li>
                         <h3>数据库与软件开发基础</h3>
                         <p>
-                        	 前端：有一定的html,css以及js基础。
-                        </p>
-                        <p>
+                        	 前端：有一定的html,css以及js语言等静态网页开发基础。<br>
                         	 后端：有一定的JavaSE基础，懂MySQL数据库基本的CURD操作。
                         </p>
                     </li>
                     <li>
                         <h3>其他</h3>
                         <p>
-                            懂基础的机器学习算法与数据挖掘方法。
+                            有一定的机器学习算法与数据挖掘方法基础。
                         </p>
                         <p>
-                        	  linux系统(Ubutun)的基本使用与远程管理
+                        	  熟悉linux系统(Ubutun)的基本使用与远程管理
                         </p>
                     </li>
                 </ul>
@@ -162,36 +160,26 @@
                 <hr>
                 <ul class="experience-list">
                     <li>
-                        <h3>青岛市第二届大学生数学建模大赛二等奖</h3>
-                        <p>
-                        </p>
+                        <h3>青岛市大学生数学建模大赛二等奖</h3>
                     </li>     
                     <li>
                         <h3>雅思证书6.0</h3>
-                        <p>
-                        </p>
                     </li> 
                     <li>
                         <h3>计算机二级（C语言）</h3>
-                        <p>
-                        </p>
                     </li> 
                     <li>
                         <h3>基金从业资格证</h3>
-                        <p>
-                        </p>
                     </li>                     
             </div>
             <div class="aboutme info-unit right-paragraph">
                 <h2 class="info-header"><i class="iconfont icon-flower"></i> <span class="info-title">自我评价</span></h2>
                 <hr>
-                <p>
-                    我是一个热爱生活的人，平时性格开朗，热爱运动。从而拥有强健的体魄使我能胜任有挑战的工作。</p>
-                <p>
-                    对待工作认真负责，乐于沟通。善于自主解决工作与学习上的问题。</p>        
-                <p>    
-                    对未来有自己的规划与想法，打算深耕大数据开发与金融数据挖掘方向。深谙终身学习的重要性，善于在工作与学习中不断提高自己的能力。
-                </p>
+                <ul type = "circle">
+                    <li>我是一个热爱生活的人，平时性格开朗，热爱运动。从而拥有强健的体魄使我能胜任有挑战的工作。</li>
+                     <li>对待工作认真负责，乐于沟通。 </li>
+                     <li>对未来有自己的规划与想法，打算深耕大数据开发与数据挖掘方向。深谙终身学习的重要性，善于在工作与学习中不断提高自己的能力。</li>
+					 </ul>                
             </div>
         </div>
     </div>
