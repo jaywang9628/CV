@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url(https://s2.ax1x.com/2019/10/24/KaCtKJ.jpg);
+    background-image:url('https://wx4.sinaimg.cn/mw690/8e7bd5fegy1g89fcanvnrj20j60scgnm.jpg');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
