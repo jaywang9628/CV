@@ -40,7 +40,7 @@
                     <li>
                         <label class="left-label">毕业年份</label><span class="label-value">2021</span></li>
                     <li>
-                        <label class="left-label">兴趣爱好</label><span class="label-value">篮球与足球</span></li>
+                        <label class="left-label">兴趣爱好</label><span class="label-value">篮球与足球,阅读</span></li>
                 </ul>
             </div>
             <div class="contact info-unit">
@@ -163,7 +163,7 @@
                         <h3>青岛市大学生数学建模大赛二等奖</h3>
                     </li>     
                     <li>
-                        <h3>雅思证书6.0</h3>
+                        <h3>雅思证书6.0分，英语六级520分。</h3>
                     </li> 
                     <li>
                         <h3>计算机二级（C语言）</h3>
@@ -176,9 +176,9 @@
                 <h2 class="info-header"><i class="iconfont icon-flower"></i> <span class="info-title">自我评价</span></h2>
                 <hr>
                 <ul type = "circle">
-                    <li>我是一个热爱生活的人，平时性格开朗，热爱运动。从而拥有强健的体魄使我能胜任有挑战的工作。</li>
+                    <li>我是一个热爱生活的人，性格开朗，热爱运动,拥有健康的体魄使我能胜任有挑战的工作。</li>
                      <li>对待工作认真负责，乐于沟通。 </li>
-                     <li>对未来有自己的规划与想法，打算深耕大数据开发与数据挖掘方向。深谙终身学习的重要性，善于在工作与学习中不断提高自己的能力。</li>
+                     <li>对未来有自己的规划与想法，有志于大数据开发与数据挖掘方向。深谙终身学习的重要性，善于在工作与学习中不断提高自己的能力。</li>
 					 </ul>                
             </div>
         </div>
