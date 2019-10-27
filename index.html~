@@ -25,7 +25,7 @@
                     <button data-remodal-action="confirm" class="remodal-confirm">确定</button>
                 </div>
                 <h1 id="username" >王家俊</h1>
-                <h4 id="persona-tag" >数据分析 / 数据挖掘 / 金融科技开发 </h4>
+                <h4 id="persona-tag" >数据分析 / 数据挖掘 / 金融科技 </h4>
             </div>
             <div class="profile info-unit">
                 <h2 class="info-header"><i class="iconfont icon-person"></i> <span class="info-title">基本信息</span></h2>
@@ -103,7 +103,7 @@
                     <li>
                         <h3>湖南大学(985)&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp金融工程（硕士）2018-2021</h3>
                         <p>
-                             硕士阶段在导师的数字金融研究所学习，从事数据分析方向，主要进行数据挖掘的研究与学习。并基于兴趣与职业规划，主动学习了Python/Java语言与MySQL数据库，学习了数据结构与算法基础，以及Linux系统使用等计算机基础知识。并对机器学习数据挖掘领域有了一定的涉足。
+                             硕士阶段在导师的数字金融研究所学习，从事数据分析方向，主要进行数据挖掘的研究与学习。并基于兴趣与职业规划，主动学习了Python/Java语言与MySQL数据库，学习了数据结构与算法基础知识，以及Linux系统使用等计算机基础知识。并对机器学习数据挖掘领域有了一定程度的涉足。
                         </p>
                     </li>
                     <li>
@@ -133,7 +133,7 @@
                         <h3>Python数据分析</h3>
                         <p>
                             有一定的python基础，会使用numpy,pandas库进行科学计算与数据分析，
-                            使用matplotlib库进行数据可视化，了解基础的python爬虫原理及一些数据挖掘方法。
+                            使用matplotlib,pyecharts库进行数据可视化，了解基础的python爬虫原理及一些数据挖掘方法。
                             <br/>
                         </p>
                     </li>
@@ -176,7 +176,7 @@
                 <ul type = "circle">
                     <li>我是一个热爱生活的人，性格开朗，热爱运动,拥有健康的体魄使我能胜任有挑战的工作。</li>
                      <li>对待工作认真负责，乐于沟通。 </li>
-                     <li>对未来有自己的规划与想法，有志于大数据开发与数据挖掘方向。深谙终身学习的重要性，善于在工作与学习中不断提高自己的能力。</li>
+                     <li>对未来有自己的规划与想法，有志于大数据，分布式技术与数据挖掘方向。深谙终身学习的重要性，善于在工作与学习中不断提高自己的能力。</li>
 					 </ul>                
             </div>
         </div>
